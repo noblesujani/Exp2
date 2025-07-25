@@ -1,3 +1,6 @@
 This is our first Devops lab.
 we crated a new repository in study/git/Demo.
-GitHub is a web-based platform that hosts Git repositories, providing developers with tools for version control and collaboration. 
+GitHub is a web-based platform that hosts Git repositories, providing developers with tools for version control and collaboration. Banana
+kiwi
+Hi
+Hello
